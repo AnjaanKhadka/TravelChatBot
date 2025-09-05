@@ -21,7 +21,11 @@ Execute the following command to run the Streamlit application.
 
     streamlit run main.py
 
-# Demos
+## Architecture of TravelChatBot
+
+<img width="2122" height="1424" alt="Architecture diagram of TravelChatBot" src="https://github.com/user-attachments/assets/3c5e3f74-15aa-4318-9f0b-25502e1de3f4" />
+
+## Demos
 
 [streamlit-main-2025-09-04-21-09-41.webm](https://github.com/user-attachments/assets/61daa8fa-6c18-4d66-9c57-750f80eaf68e)
 
@@ -32,3 +36,5 @@ Execute the following command to run the Streamlit application.
 [streamlit-main-2025-09-04-21-09-05.webm](https://github.com/user-attachments/assets/804763b6-520b-4300-876b-b1bfc8ce802d)
 
 [streamlit-main-2025-09-04-21-09-15.webm](https://github.com/user-attachments/assets/fbed913a-bc85-44b1-a793-ceb7de20c2fd)
+
+
